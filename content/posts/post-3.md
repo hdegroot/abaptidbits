@@ -1,7 +1,7 @@
 ---
 title: "Post 3"
 date: 2022-01-31T21:31:23-08:00
-draft: true
+draft: false
 ---
 
 This is a test.
