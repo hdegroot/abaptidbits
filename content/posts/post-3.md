@@ -7,6 +7,9 @@ draft: false
 This is a test.
 
 
+
+```go
+
 REPORT  ZFI_FIX_1KEK                            .
 
 
@@ -97,3 +100,8 @@ REPORT  ZFI_FIX_1KEK                            .
 
   ENDLOOP.
 
+```
+
+This is normal text.
+
+And here is some more text.
