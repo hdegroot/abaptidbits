@@ -1,4 +1,4 @@
-baseURL = 'https://abaptidbits.netlify.com/'
+baseURL = 'https://www.abaptidbits.com/'
 languageCode = 'en-us'
 title = 'abapTidbits'
 theme = "ezhil"
